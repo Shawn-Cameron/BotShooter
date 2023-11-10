@@ -1,0 +1,101 @@
+﻿  Enemy.cpp
+C:\Users\shawn\Documents\GitHub\BotShooter\Enemy.h(25,8): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\shawn\Documents\GitHub\BotShooter\Enemy.h(34,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\shawn\Documents\GitHub\BotShooter\Enemy.h(35,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\shawn\Documents\GitHub\BotShooter\Enemy.h(36,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\shawn\Documents\GitHub\BotShooter\Enemy.h(39,35): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\shawn\Documents\GitHub\BotShooter\Enemy.h(40,37): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\shawn\Documents\GitHub\BotShooter\Enemy.h(41,35): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\shawn\Documents\GitHub\BotShooter\Enemy.h(43,36): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\shawn\Documents\GitHub\BotShooter\Enemy.h(44,38): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\shawn\Documents\GitHub\BotShooter\Enemy.h(45,36): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\shawn\Documents\GitHub\BotShooter\Enemy.h(47,36): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\shawn\Documents\GitHub\BotShooter\Enemy.h(48,39): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\shawn\Documents\GitHub\BotShooter\Enemy.cpp(34,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\shawn\Documents\GitHub\BotShooter\Enemy.cpp(36,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\shawn\Documents\GitHub\BotShooter\Enemy.cpp(60,52): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\shawn\Documents\GitHub\BotShooter\Enemy.cpp(60,25): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\shawn\Documents\GitHub\BotShooter\Enemy.cpp(81,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\shawn\Documents\GitHub\BotShooter\Enemy.cpp(96,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\shawn\Documents\GitHub\BotShooter\Enemy.cpp(97,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\shawn\Documents\GitHub\BotShooter\Enemy.cpp(101,31): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\shawn\Documents\GitHub\BotShooter\Enemy.cpp(144,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\shawn\Documents\GitHub\BotShooter\Enemy.cpp(181,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\shawn\Documents\GitHub\BotShooter\Enemy.cpp(190,30): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\shawn\Documents\GitHub\BotShooter\Enemy.cpp(193,22): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\shawn\Documents\GitHub\BotShooter\Enemy.cpp(208,36): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\shawn\Documents\GitHub\BotShooter\Enemy.cpp(214,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\shawn\Documents\GitHub\BotShooter\Enemy.cpp(220,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\shawn\Documents\GitHub\BotShooter\Enemy.cpp(284,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\shawn\Documents\GitHub\BotShooter\Enemy.cpp(285,41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\shawn\Documents\GitHub\BotShooter\Enemy.cpp(297,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\shawn\Documents\GitHub\BotShooter\Enemy.cpp(436,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\shawn\Documents\GitHub\BotShooter\Enemy.cpp(437,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\shawn\Documents\GitHub\BotShooter\Enemy.cpp(439,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\shawn\Documents\GitHub\BotShooter\Enemy.cpp(440,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\shawn\Documents\GitHub\BotShooter\Enemy.cpp(441,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\shawn\Documents\GitHub\BotShooter\Enemy.cpp(461,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\shawn\Documents\GitHub\BotShooter\Enemy.cpp(462,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\shawn\Documents\GitHub\BotShooter\Enemy.cpp(471,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\shawn\Documents\GitHub\BotShooter\Enemy.cpp(473,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Projectile.cpp
+C:\Users\shawn\Documents\GitHub\BotShooter\Projectile.h(11,8): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\shawn\Documents\GitHub\BotShooter\Projectile.h(35,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\shawn\Documents\GitHub\BotShooter\Projectile.h(36,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\shawn\Documents\GitHub\BotShooter\Projectile.h(37,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  QuadMesh.cpp
+C:\Users\shawn\Documents\GitHub\BotShooter\QuadMesh.cpp(36,22): warning C4305: '=': truncation from 'double' to 'GLfloat'
+C:\Users\shawn\Documents\GitHub\BotShooter\QuadMesh.cpp(58,21): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\shawn\Documents\GitHub\BotShooter\QuadMesh.cpp(93,8): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\shawn\Documents\GitHub\BotShooter\QuadMesh.cpp(99,8): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+  Main.cpp
+C:\Users\shawn\Documents\GitHub\BotShooter\Enemy.h(25,8): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\shawn\Documents\GitHub\BotShooter\Enemy.h(34,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\shawn\Documents\GitHub\BotShooter\Enemy.h(35,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\shawn\Documents\GitHub\BotShooter\Enemy.h(36,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\shawn\Documents\GitHub\BotShooter\Enemy.h(39,35): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\shawn\Documents\GitHub\BotShooter\Enemy.h(40,37): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\shawn\Documents\GitHub\BotShooter\Enemy.h(41,35): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\shawn\Documents\GitHub\BotShooter\Enemy.h(43,36): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\shawn\Documents\GitHub\BotShooter\Enemy.h(44,38): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\shawn\Documents\GitHub\BotShooter\Enemy.h(45,36): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\shawn\Documents\GitHub\BotShooter\Enemy.h(47,36): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\shawn\Documents\GitHub\BotShooter\Enemy.h(48,39): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\shawn\Documents\GitHub\BotShooter\Projectile.h(11,8): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\shawn\Documents\GitHub\BotShooter\Projectile.h(35,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\shawn\Documents\GitHub\BotShooter\Projectile.h(36,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\shawn\Documents\GitHub\BotShooter\Projectile.h(37,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\shawn\Documents\GitHub\BotShooter\Main.h(21,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\shawn\Documents\GitHub\BotShooter\Main.h(22,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\shawn\Documents\GitHub\BotShooter\Main.h(24,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\shawn\Documents\GitHub\BotShooter\Main.cpp(141,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\shawn\Documents\GitHub\BotShooter\Main.cpp(205,21): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\shawn\Documents\GitHub\BotShooter\Main.cpp(212,21): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\shawn\Documents\GitHub\BotShooter\Main.cpp(288,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\shawn\Documents\GitHub\BotShooter\Main.cpp(289,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\shawn\Documents\GitHub\BotShooter\Main.cpp(320,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\shawn\Documents\GitHub\BotShooter\Main.cpp(328,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\shawn\Documents\GitHub\BotShooter\Main.cpp(414,33): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\shawn\Documents\GitHub\BotShooter\Main.cpp(461,44): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  ShaderUtil.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 370 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  A3.vcxproj -> C:\Users\shawn\Documents\GitHub\BotShooter\Builds\x64\Release\BotShooter.exe
+  C:\Users\shawn\Documents\GitHub\BotShooter\Dependencies\glew-2.2.0\bin\Release\x64\glew32.dll
+          1 file(s) copied.
+  C:\Users\shawn\Documents\GitHub\BotShooter\Dependencies\freeglut\bin\x64\freeglut.dll
+          1 file(s) copied.
+  C:\Users\shawn\Documents\GitHub\BotShooter\Textures\blackLines.png
+  C:\Users\shawn\Documents\GitHub\BotShooter\Textures\bulletTex.png
+  C:\Users\shawn\Documents\GitHub\BotShooter\Textures\cannon.png
+  C:\Users\shawn\Documents\GitHub\BotShooter\Textures\eye.png
+  C:\Users\shawn\Documents\GitHub\BotShooter\Textures\metal.png
+  C:\Users\shawn\Documents\GitHub\BotShooter\Textures\roundmetal.png
+  C:\Users\shawn\Documents\GitHub\BotShooter\Textures\snow.png
+  C:\Users\shawn\Documents\GitHub\BotShooter\Textures\stoneWall.png
+  C:\Users\shawn\Documents\GitHub\BotShooter\Textures\tire.png
+  C:\Users\shawn\Documents\GitHub\BotShooter\Textures\tire2.png
+  C:\Users\shawn\Documents\GitHub\BotShooter\Textures\whiteCamo.png
+  11 File(s) copied
