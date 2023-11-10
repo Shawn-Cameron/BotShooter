@@ -107,6 +107,11 @@
       <AdditionalLibraryDirectories>$(ProjectDir)Dependencies\freeglut\lib\$(Platform);$(ProjectDir)Dependencies\glew-2.2.0\lib\Release\$(Platform)</AdditionalLibraryDirectories>
       <AdditionalDependencies>glew32.lib;freeglut.lib;opengl32.lib</AdditionalDependencies>
     </Link>
+    <PostBuildEvent>
+      <Command>copy $(ProjectDir)Dependencies\glew-2.2.0\bin\Release\$(platform)\*.dll $(SolutionDir)Builds\$(platform)\$(Configuration)\
+copy $(ProjectDir)Dependencies\freeglut\bin\$(platform)\*.dll $(SolutionDir)Builds\$(platform)\$(Configuration)\
+xcopy $(ProjectDir)Textures\ $(SolutionDir)Builds\$(platform)\$(Configuration)\Textures\</Command>
+    </PostBuildEvent>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
     <ClCompile>
@@ -126,6 +131,11 @@
       <AdditionalLibraryDirectories>$(ProjectDir)Dependencies\freeglut\lib\$(Platform);$(ProjectDir)Dependencies\glew-2.2.0\lib\Release\$(Platform);%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
       <AdditionalDependencies>opengl32.lib;glew32.lib;%(AdditionalDependencies)</AdditionalDependencies>
     </Link>
+    <PostBuildEvent>
+      <Command>copy $(ProjectDir)Dependencies\glew-2.2.0\bin\Release\$(platform)\*.dll $(SolutionDir)Builds\$(platform)\$(Configuration)\
+copy $(ProjectDir)Dependencies\freeglut\bin\$(platform)\*.dll $(SolutionDir)Builds\$(platform)\$(Configuration)\
+xcopy $(ProjectDir)Textures\ $(SolutionDir)Builds\$(platform)\$(Configuration)\Textures\</Command>
+    </PostBuildEvent>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
     <ClCompile>
@@ -141,6 +151,11 @@
       <AdditionalLibraryDirectories>$(ProjectDir)Dependencies\freeglut\lib\$(Platform);$(ProjectDir)Dependencies\glew-2.2.0\lib\Release\$(Platform)</AdditionalLibraryDirectories>
       <AdditionalDependencies>glew32.lib;freeglut.lib;opengl32.lib</AdditionalDependencies>
     </Link>
+    <PostBuildEvent>
+      <Command>copy $(ProjectDir)Dependencies\glew-2.2.0\bin\Release\$(platform)\*.dll $(SolutionDir)Builds\$(platform)\$(Configuration)\
+copy $(ProjectDir)Dependencies\freeglut\bin\$(platform)\*.dll $(SolutionDir)Builds\$(platform)\$(Configuration)\
+xcopy $(ProjectDir)Textures\ $(SolutionDir)Builds\$(platform)\$(Configuration)\Textures\</Command>
+    </PostBuildEvent>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
     <ClCompile>
@@ -160,6 +175,11 @@
       <AdditionalLibraryDirectories>$(ProjectDir)Dependencies\freeglut\lib\$(Platform);$(ProjectDir)Dependencies\glew-2.2.0\lib\Release\$(Platform);%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
       <AdditionalDependencies>opengl32.lib;glew32.lib;%(AdditionalDependencies)</AdditionalDependencies>
     </Link>
+    <PostBuildEvent>
+      <Command>copy $(ProjectDir)Dependencies\glew-2.2.0\bin\Release\$(platform)\*.dll $(SolutionDir)Builds\$(platform)\$(Configuration)\
+copy $(ProjectDir)Dependencies\freeglut\bin\$(platform)\*.dll $(SolutionDir)Builds\$(platform)\$(Configuration)\
+xcopy $(ProjectDir)Textures\ $(SolutionDir)Builds\$(platform)\$(Configuration)\Textures\</Command>
+    </PostBuildEvent>
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="Enemy.h" />
